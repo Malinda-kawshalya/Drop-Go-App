@@ -17,7 +17,7 @@ export default function App() {
     <NavigationContainer>
       <StatusBar style="dark" backgroundColor="#d8f3dc" />
       <Stack.Navigator
-        initialRouteName="Login"
+        initialRouteName="Home"
         screenOptions={{
           headerShown: false,
           gestureEnabled: true,
